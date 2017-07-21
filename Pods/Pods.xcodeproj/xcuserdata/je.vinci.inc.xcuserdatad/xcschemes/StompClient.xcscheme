@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '22B1EE197434017E736BB780CC5FC607'
+               BlueprintIdentifier = '4BED2BDA87667D84B7864CE48673C02C'
                BlueprintName = 'StompClient'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'StompClient.framework'>

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6FCDB5CB74D6B60611AB1588129077A1"
+               BlueprintIdentifier = "D5E988D19CDFD7D5AEFCE47DDA24DECB"
                BuildableName = "Pods_STOMPwithStarScream.framework"
                BlueprintName = "Pods-STOMPwithStarScream"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6FCDB5CB74D6B60611AB1588129077A1"
+            BlueprintIdentifier = "D5E988D19CDFD7D5AEFCE47DDA24DECB"
             BuildableName = "Pods_STOMPwithStarScream.framework"
             BlueprintName = "Pods-STOMPwithStarScream"
             ReferencedContainer = "container:Pods.xcodeproj">

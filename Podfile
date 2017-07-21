@@ -5,16 +5,8 @@ target 'STOMPwithStarScream' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
   # Pods for STOMPwithStarScream
+	pod 'GoogleMaps'
+	pod 'ObjectMapper', '~> 2.2'
 	pod 'StompClient', '~>0.2.6'
 	pod 'Starscream', '~>2.0.3'
-  target 'STOMPwithStarScreamTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'STOMPwithStarScreamUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
 end

@@ -4,17 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>ObjectMapper.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-STOMPwithStarScream.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-STOMPwithStarScreamTests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-STOMPwithStarScreamUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -32,27 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1A42C3183DEAEB3FA4E7786234955C3C</key>
+		<key>4BED2BDA87667D84B7864CE48673C02C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>22B1EE197434017E736BB780CC5FC607</key>
+		<key>88532435A05220773BD1CB93646BA8A2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6FCDB5CB74D6B60611AB1588129077A1</key>
+		<key>CD6C9FB6B052E1CF663F8A56041EA163</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>87D1CF29FA4C89D9E60313CEFAE3845F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DA450EDB84EE020844FC7FF02774ACC5</key>
+		<key>D5E988D19CDFD7D5AEFCE47DDA24DECB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
