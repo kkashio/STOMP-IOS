@@ -1,0 +1,16 @@
+PODS:
+  - Starscream (2.0.3)
+  - StompClient (0.2.7):
+    - Starscream (~> 2.0.0)
+
+DEPENDENCIES:
+  - Starscream (~> 2.0.3)
+  - StompClient (~> 0.2.6)
+
+SPEC CHECKSUMS:
+  Starscream: 3fdd5c277e57cca6b5c406d274e3f34a7c88f2ce
+  StompClient: 6d7ea1300faae0c98039d9cd078310e44609250d
+
+PODFILE CHECKSUM: dc2632e775d54b29cceb51e0daa1c914f3f88aea
+
+COCOAPODS: 1.1.1

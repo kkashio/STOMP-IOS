@@ -1,0 +1,6 @@
+framework module Pods_STOMPwithStarScream {
+  umbrella header "Pods-STOMPwithStarScream-umbrella.h"
+
+  export *
+  module * { export * }
+}

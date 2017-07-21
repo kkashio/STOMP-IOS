@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-STOMPwithStarScream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Pods-STOMPwithStarScreamTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-STOMPwithStarScreamUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Starscream.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>StompClient.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1A42C3183DEAEB3FA4E7786234955C3C</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>22B1EE197434017E736BB780CC5FC607</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>6FCDB5CB74D6B60611AB1588129077A1</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>87D1CF29FA4C89D9E60313CEFAE3845F</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+		<key>DA450EDB84EE020844FC7FF02774ACC5</key>
+		<dict>
+			<key>primary</key>
+			<true />
+		</dict>
+	</dict>
+</dict>
+</plist>
